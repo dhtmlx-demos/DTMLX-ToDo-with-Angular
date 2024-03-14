@@ -1,0 +1,6 @@
+@import "../../../node_modules/@dhx/trial-todolist/dist/todo.css";
+
+.widget {
+  width: 100%;
+  height: 100%;
+}
